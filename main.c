@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/*john.llanes*/
 int main()
 {
     char nom[20];
