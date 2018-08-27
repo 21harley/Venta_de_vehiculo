@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-/*john.llanes*/
+/*john.llanes proyecto en c*/
 int main()
 {
     char nom[20];
